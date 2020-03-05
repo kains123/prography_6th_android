@@ -37,11 +37,11 @@ public class ViewPagerAdapter extends FragmentPagerAdapter {
     public CharSequence getPageTitle(int position) {
         switch (position) {
             case 0:
-                return "mmonday";
+                return "";
             case 1:
-                return "tuesday";
+                return "";
             case 2:
-                return "wednesday";
+                return "";
             default:
                 return null;
         }

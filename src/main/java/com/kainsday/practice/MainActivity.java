@@ -108,6 +108,11 @@ public class MainActivity extends AppCompatActivity {
         TabLayout tabLayout = findViewById(R.id.tabLayout);
         viewPager.setAdapter(fragmentPagerAdapter);
         tabLayout.setupWithViewPager(viewPager);
+
+        tabLayout.getTabAt(0).setIcon(R.drawable.ic_call);
+        tabLayout.getTabAt(1).setIcon(R.drawable.ic_chat);
+        tabLayout.getTabAt(2).setIcon(R.drawable.ic_contact);
+
     }
 
 
