@@ -3,6 +3,8 @@
 
 ## 1.ViewPager 이용하여 Fragment 3개, Swipe가 가능 Bottom Navigation View 구현
 
+* 각각의 fragment의 java class 및 layout을 형성하여 구현하였다.
+
 
 Screeenshots
 ____________
@@ -23,7 +25,7 @@ ____________
 
 ### 두번째 fragment에 recyclerview를 넣으려고 했으나 계속 알수없는 오류가 생겼고 해결하지 못해 MainActivity에 recyclerView를 배치하였다.
 ### 주어진 json을 volley, gson을 이용해 parsing하였다.
-* 스크롤 가능하게 배치
+* 스크롤 가능하게 배치하였다.
 * 모든 Activity 생성할 때, Empty Activity를 이용해 작성하였다.
-
+* 표시할 4기지 정보들을 순서대로 구성하여 나타내었다. 
 
