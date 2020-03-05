@@ -1,7 +1,7 @@
 # prography_6th_android
 
 
-## 1.ViewPager를 이용하여 Fragment 3개, Swipe가 가능 Bottom Navigation View 구현
+## 1.ViewPager 이용하여 Fragment 3개, Swipe가 가능 Bottom Navigation View 구현
 
 
 Screeenshots
